@@ -18,9 +18,5 @@
 >学习编程只是因为热爱，不断学习，不断进步，将自己的想法去逐个实现，本身就是一件浪漫至极的事情。
 
 >当你抬头仰望星空时 记得永远保持对知识的热爱 以及一颗面对未知勇于探索的好奇心。
-
-----
-
-<a href="https://github.com/benx1n">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benx1n&layout=compact&title_color=ffa000" />
+>
 </a>
