@@ -3,7 +3,7 @@
   </a>
 </div>
 
-[![](https://github.com/Perseus037/data/blob/master/%E4%BB%8A%E5%A4%9C%E3%80%81%E3%81%93%E3%81%AE%E6%98%9F%E3%81%AE%E4%B8%8B%E3%81%A7%E3%80%81%E6%84%9B%E3%81%8C.jpg)](https://github.com/Perseus037)
+[![](https://github.com/Perseus037/data/blob/master/computer.jpg)](https://github.com/Perseus037)
 
 <a href="https://github.com/Perseus037">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Perseus037&show_icons=true&icon_color=ffca28&title_color=ffa000" />
@@ -15,7 +15,7 @@
 
 >我很菜，非常的菜，所以如果我的代码出现运行效率低下或者奇怪的报错，请多多包容。
 
->编程是一门处理复杂性的艺术，学习编程只是因为热爱，不过很多事情都并不复杂，只需热爱和坚持便可抵漫长岁月。
+>学习编程只是因为热爱，不断学习，不断进步，将自己的想法去逐个实现，本身就是一件浪漫至极的事情，
 
 >当你抬头仰望星空寰宇时 记得永远保持对知识的热爱 以及一颗面对未知勇于探索的好奇心。
 
