@@ -3,7 +3,7 @@
   </a>
 </div>
 
-># "Talk is cheap. Show me the code."（空谈毫无意义，展示给我代码。）-Linus Torvalds
+># "Talk is cheap. Show me the code." -Linus Torvalds
 
 [![](https://github.com/Perseus037/data/blob/master/computer.jpg)](https://github.com/Perseus037)
 
