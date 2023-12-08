@@ -9,11 +9,11 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Perseus037&show_icons=true&icon_color=ffca28&title_color=ffa000" />
 </a>
 
->"Talk is cheap. Show me the code."（空谈毫无意义，展示给我代码。）-Linus Torvalds 
+># "Talk is cheap. Show me the code."（空谈毫无意义，展示给我代码。）-Linus Torvalds 
 
->"Once you stop learning, you start dying."（一旦你停止学习，就开始死亡。）-Albert Einstein
+># "Once you stop learning, you start dying."（一旦你停止学习，就开始死亡。）-Albert Einstein
 
->"Stay hungry,stay foolish." （求知若饥，虚心若愚.) -Steve Jobs
+># "Stay hungry,stay foolish." （求知若饥，虚心若愚.) -Steve Jobs
 
 >我很菜，非常的菜，所以如果我的代码运行效率低下或者出现奇怪的报错，还请多多包容。
 
