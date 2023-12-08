@@ -2,14 +2,13 @@
   <a href="https://github.com/Perseus037">
   </a>
 </div>
+># "Talk is cheap. Show me the code."（空谈毫无意义，展示给我代码。）-Linus Torvalds 
 
 [![](https://github.com/Perseus037/data/blob/master/computer.jpg)](https://github.com/Perseus037)
 
 <a href="https://github.com/Perseus037">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Perseus037&show_icons=true&icon_color=ffca28&title_color=ffa000" />
 </a>
-
-># "Talk is cheap. Show me the code."（空谈毫无意义，展示给我代码。）-Linus Torvalds 
 
 ># "Once you stop learning, you start dying."（一旦你停止学习，就开始死亡。）-Albert Einstein
 
