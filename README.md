@@ -25,5 +25,5 @@
 
 >"Stay hungry,stay foolish." （求知若饥，虚心若愚.) -Steve Jobs
 
->📫如有任何建议或想法，欢迎通过以下方式联系我：QQ: 1209228678  Emai: 1209228678@qq.com  Telegram: Perseus 037
+>📫如有任何建议或想法，欢迎通过以下方式联系我：QQ: 1209228678      Emai: 1209228678@qq.com      Telegram: Perseus 037
 </a>
