@@ -11,9 +11,11 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Perseus037&show_icons=true&icon_color=ffca28&title_color=ffa000" />
 </a>
 
-在有空的时候和假期的休息时间，写点自己觉得有趣的东西。
+在有空的时候和假期的休息时间，写点自己觉得有趣的东西
 
-我很菜，非常的菜，所以如果我的代码运行效率低下或者出现奇怪的报错，还请多多包容。
+我很菜，非常的菜
+
+所以如果我的代码运行效率低下或者出现奇怪的报错，还请多多包容
 
 永远保持谦逊
 
@@ -21,7 +23,7 @@
 
 永远保持乐观
 
-永远保持对知识的热爱 以及一颗面对未知勇于探索的好奇心。
+永远保持对知识的热爱 以及一颗面对未知勇于探索的好奇心
 
 "Stay hungry,stay foolish." （求知若饥，虚心若愚.) -Steve Jobs
 
