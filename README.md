@@ -3,7 +3,7 @@
   </a>
 </div>
 
-# "Talk is cheap. Show me the code." -Linus Torvalds
+## "Talk is cheap. Show me the code." -Linus Torvalds
 
 [![](https://github.com/Perseus037/data/blob/master/computer.jpg)](https://github.com/Perseus037)
 
@@ -11,9 +11,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Perseus037&show_icons=true&icon_color=ffca28&title_color=ffa000" />
 </a>
 
-我很菜，非常的菜，所以如果我的代码运行效率低下或者出现奇怪的报错，还请多多包容。
+在有空的时候和假期的休息时间，写点自己觉得有趣的东西。
 
-有空的时候，写点自己觉得有趣的东西。
+我很菜，非常的菜，所以如果我的代码运行效率低下或者出现奇怪的报错，还请多多包容。
 
 永远保持谦逊
 
