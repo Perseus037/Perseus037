@@ -11,7 +11,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Perseus037&show_icons=true&icon_color=ffca28&title_color=ffa000" />
 </a>
 
-在有空的时候和假期的休息时间，写点自己觉得有趣的东西
+在有空的时候，写点自己觉得有趣的东西
 
 我很菜，非常的菜
 
