@@ -13,8 +13,6 @@
 
 在有空的时候，写点自己觉得有趣的东西
 
-"Stay hungry,stay foolish." （求知若饥，虚心若愚.) -Steve Jobs
-
 📫联系方式：
 
 QQ: 1209228678      
