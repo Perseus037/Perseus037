@@ -11,12 +11,10 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Perseus037&show_icons=true&icon_color=ffca28&title_color=ffa000" />
 </a>
 
-程序是写给人看的，偶尔才给机器运行。
+希望能做一些有意义的工作。
 
 📫联系方式：
 
 Email: 1209228678@qq.com  
-    
-Telegram: Perseus 037
 
 </a>
