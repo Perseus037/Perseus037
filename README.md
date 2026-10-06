@@ -11,7 +11,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Perseus037&show_icons=true&icon_color=ffca28&title_color=ffa000" />
 </a>
 
-Taste is all your need。
+Taste is all your need.
 
 📫Contact Information：
 
