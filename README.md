@@ -3,7 +3,7 @@
   </a>
 </div>
 
-# "Talk is cheap. Show me the code." -Linus Torvalds
+# "Code is cheap. Show me the prompt."
 
 [![](https://github.com/Perseus037/data/blob/master/computer.jpg)](https://github.com/Perseus037)
 
@@ -11,10 +11,10 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Perseus037&show_icons=true&icon_color=ffca28&title_color=ffa000" />
 </a>
 
-希望能做一些有意义的工作。
+Taste is all your need。
 
-📫联系方式：
+📫Contact Information：
 
-Email: 1209228678@qq.com  
+Email: zzheng186@connect.hkust-gz.edu.cn 
 
 </a>
