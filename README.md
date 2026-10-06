@@ -4,7 +4,6 @@
 </div>
 
 # "Code is cheap. Show me the prompt."
-# "Taste is all your need."
 
 [![](https://github.com/Perseus037/data/blob/master/computer.jpg)](https://github.com/Perseus037)
 
@@ -13,6 +12,7 @@
 </a>
 
 I’m currently exploring and working on memory for GUI agents, vision-language models, and efficient inference.
+Taste is all your need
 
 📫Contact Information：
 
