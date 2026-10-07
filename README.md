@@ -13,7 +13,7 @@
 
 I’m currently exploring and working on memory for GUI agents, vision-language models, and efficient inference.
 
-Taste is all your need
+In a world moving at the speed of Artificial intelligence,Taste is all your need.
 
 📫Contact Information：
 
